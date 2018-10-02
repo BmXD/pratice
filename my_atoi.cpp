@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdlib.h>
 
 int my_atoi(const char* str)
 {
